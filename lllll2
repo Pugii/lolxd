@@ -1247,10 +1247,10 @@ if v15 then
         ['Soft And Wet'] = 'SoftAndWet',
     }
     local u179 = {}
-    local u180 = {'Scourge', 'Hacker', 'Legendary'}
+    local u180 = {'Legendary'}
     local u179b = {'DTW', 'JotarosStarPlatinum', 'StarPlatinumOVA'} -- stands used exclusively for StandAndAttriCheck
     local u180b = {'Legendary', 'Hacker', 'Scourge', 'Invincible', 'Glass Cannon', 'Daemon', 'Tragic'} -- attributes used exclusively for StandAndAttriCheck
-    local u181 = 'Stand Arrow'
+    local u181 = 'Charged Arrow'
     local u182 = 'None'
     local u183 = false
     local _MarketplaceService = game:GetService('MarketplaceService')
